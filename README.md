@@ -139,26 +139,41 @@ source venv/bin/activate  # Mac/Linux
 # Install dependencies
 pip install -r requirements.txt
 
-# Run main pipeline
-python main.py 
----
-##Project Structure 
+# Run main pipeline (Extract, Process & Validate)
+python main.py
 
+# Run the Streamlit Dashboard
+streamlit run app/dash_app/app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```text
 projectTransportDefense/
 │
-├── data/               # Raw & processed datasets
-├── notebooks/         # Exploratory analysis
-├── src/               # Core pipeline code
-│   ├── ingestion/
-│   ├── processing/
-│   ├── features/
-│   └── models/
-├── visualization/     # Maps & dashboards
-├── models/            # Trained models
-├── main.py            # Pipeline entry point
-├── requirements.txt
-└── README.md
-
-
-
-
+├── main.py                    # Main pipeline entry point
+├── requirements.txt           # Python dependencies
+├── .gitignore                 # Git ignore rules
+├── README.md                  # Project documentation
+│
+├── pipelines/
+│   └── main_pipeline.py       # Orchestrates the ETL data steps
+│
+├── src/                       # Core Data Engineering codebase
+│   ├── configuration/         # Configuration & API endpoints
+│   ├── utils/                 # Data lake connectors & logger
+│   ├── data_extraction/       # API ingestion (RATP, IDFM, weather)
+│   ├── data_processing/       # Refinement scripts (Parquet conversion)
+│   ├── models/                # ML models (traffic, weather impact)
+│   └── automation/            # Scheduler service (run_extract.py)
+│
+├── app/
+│   └── dash_app/              # Streamlit web application
+│       ├── app.py             # Dashboard main script
+│       └── components/        # Isolated map and status widgets
+│
+└── data/
+    └── data_static_extraction/# Static datasets & ingestion scripts
+```

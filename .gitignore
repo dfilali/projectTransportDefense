@@ -65,7 +65,7 @@ data_lake/
 *.h5
 *.pt
 *.joblib
-models/
+/models/
 
 # =====================
 # Big data / cloud
