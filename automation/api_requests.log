@@ -1,0 +1,261 @@
+2026-06-14 01:27:09,856 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/metro/1/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:09,857 - INFO - Retrying in 1.60s
+2026-06-14 01:27:12,624 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/metro/1/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:12,624 - INFO - Retrying in 2.03s
+2026-06-14 01:27:15,552 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/metro/1/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:15,552 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/metro/1/la+defense/A+R
+2026-06-14 01:27:16,552 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/metro/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:16,552 - INFO - Retrying in 1.69s
+2026-06-14 01:27:19,112 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/metro/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:19,113 - INFO - Retrying in 2.07s
+2026-06-14 01:27:22,453 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/metro/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:22,453 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/metro/1
+2026-06-14 01:27:23,373 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/A/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:23,373 - INFO - Retrying in 1.07s
+2026-06-14 01:27:25,525 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/A/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:25,526 - INFO - Retrying in 2.96s
+2026-06-14 01:27:29,518 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/A/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:29,519 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/A/la+defense/A+R
+2026-06-14 01:27:30,387 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:30,388 - INFO - Retrying in 1.24s
+2026-06-14 01:27:32,595 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:32,595 - INFO - Retrying in 2.50s
+2026-06-14 01:27:35,981 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:35,981 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/A
+2026-06-14 01:27:37,198 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/E/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:37,198 - INFO - Retrying in 1.97s
+2026-06-14 01:27:40,036 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/E/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:40,036 - INFO - Retrying in 2.20s
+2026-06-14 01:27:43,122 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/E/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:43,123 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/rers/E/la+defense/A+R
+2026-06-14 01:27:43,998 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:43,999 - INFO - Retrying in 1.59s
+2026-06-14 01:27:46,723 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:46,724 - INFO - Retrying in 2.07s
+2026-06-14 01:27:49,796 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:49,796 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/rers/E
+2026-06-14 01:27:50,685 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/transilien/L/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:50,687 - INFO - Retrying in 1.23s
+2026-06-14 01:27:52,866 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/transilien/L/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:27:52,867 - INFO - Retrying in 2.79s
+2026-06-14 01:27:56,552 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/transilien/L/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:27:56,552 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/transilien/L/la+defense/A+R
+2026-06-14 01:27:57,474 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:27:57,474 - INFO - Retrying in 1.97s
+2026-06-14 01:28:00,546 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:00,552 - INFO - Retrying in 2.90s
+2026-06-14 01:28:04,332 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:04,333 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/transilien/L
+2026-06-14 01:28:05,464 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/73/grande+arche/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:05,465 - INFO - Retrying in 1.71s
+2026-06-14 01:28:08,227 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/73/grande+arche/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:08,227 - INFO - Retrying in 2.33s
+2026-06-14 01:28:11,452 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/73/grande+arche/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:11,452 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/73/grande+arche/A+R
+2026-06-14 01:28:12,312 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:12,313 - INFO - Retrying in 1.94s
+2026-06-14 01:28:15,251 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:15,252 - INFO - Retrying in 2.17s
+2026-06-14 01:28:18,364 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:18,364 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/73
+2026-06-14 01:28:19,596 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/144/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:19,597 - INFO - Retrying in 1.09s
+2026-06-14 01:28:21,584 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/144/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:21,585 - INFO - Retrying in 2.21s
+2026-06-14 01:28:24,815 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/144/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:24,816 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/144/la+defense/A+R
+2026-06-14 01:28:25,736 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:25,737 - INFO - Retrying in 1.82s
+2026-06-14 01:28:28,502 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:28,502 - INFO - Retrying in 2.42s
+2026-06-14 01:28:31,880 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:31,881 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/144
+2026-06-14 01:28:33,110 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/158/esplanade+de+la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:33,111 - INFO - Retrying in 1.88s
+2026-06-14 01:28:36,181 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/158/esplanade+de+la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:36,181 - INFO - Retrying in 2.66s
+2026-06-14 01:28:39,753 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/158/esplanade+de+la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:39,754 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/158/esplanade+de+la+defense/A+R
+2026-06-14 01:28:40,792 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:40,793 - INFO - Retrying in 1.80s
+2026-06-14 01:28:43,556 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:43,557 - INFO - Retrying in 2.68s
+2026-06-14 01:28:47,122 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:47,123 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/158
+2026-06-14 01:28:48,163 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/163/cnit/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:48,163 - INFO - Retrying in 1.18s
+2026-06-14 01:28:50,316 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/163/cnit/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:50,316 - INFO - Retrying in 2.36s
+2026-06-14 01:28:53,543 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/163/cnit/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:53,544 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/163/cnit/A+R
+2026-06-14 01:28:54,422 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:28:54,424 - INFO - Retrying in 1.28s
+2026-06-14 01:28:56,606 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:28:56,607 - INFO - Retrying in 2.22s
+2026-06-14 01:28:59,703 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:28:59,703 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/163
+2026-06-14 01:29:00,757 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/174/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:00,758 - INFO - Retrying in 1.19s
+2026-06-14 01:29:02,817 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/174/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:02,817 - INFO - Retrying in 2.64s
+2026-06-14 01:29:06,569 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/174/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:06,570 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/174/la+defense/A+R
+2026-06-14 01:29:07,516 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:07,516 - INFO - Retrying in 1.63s
+2026-06-14 01:29:10,281 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:10,281 - INFO - Retrying in 2.91s
+2026-06-14 01:29:14,083 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:14,084 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/174
+2026-06-14 01:29:14,983 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/178/quatre+temps/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:14,983 - INFO - Retrying in 1.11s
+2026-06-14 01:29:16,972 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/178/quatre+temps/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:16,972 - INFO - Retrying in 2.07s
+2026-06-14 01:29:19,915 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/178/quatre+temps/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:19,918 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/178/quatre+temps/A+R
+2026-06-14 01:29:20,848 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:20,848 - INFO - Retrying in 1.30s
+2026-06-14 01:29:23,012 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:23,012 - INFO - Retrying in 2.66s
+2026-06-14 01:29:26,542 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:26,543 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/178
+2026-06-14 01:29:27,449 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/258/pont+de+neuilly/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:27,450 - INFO - Retrying in 1.59s
+2026-06-14 01:29:29,916 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/258/pont+de+neuilly/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:29,917 - INFO - Retrying in 2.84s
+2026-06-14 01:29:33,887 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/258/pont+de+neuilly/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:33,888 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/258/pont+de+neuilly/A+R
+2026-06-14 01:29:34,857 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:34,857 - INFO - Retrying in 1.25s
+2026-06-14 01:29:37,007 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:37,007 - INFO - Retrying in 2.71s
+2026-06-14 01:29:40,604 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:40,605 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/258
+2026-06-14 01:29:41,509 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/262/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:41,510 - INFO - Retrying in 1.30s
+2026-06-14 01:29:43,765 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/262/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:43,766 - INFO - Retrying in 2.72s
+2026-06-14 01:29:47,454 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/262/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:47,455 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/262/la+defense/A+R
+2026-06-14 01:29:48,374 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:48,374 - INFO - Retrying in 1.98s
+2026-06-14 01:29:51,448 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:51,448 - INFO - Retrying in 2.52s
+2026-06-14 01:29:55,137 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:29:55,138 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/262
+2026-06-14 01:29:56,061 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/272/les+bergeries/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:29:56,066 - INFO - Retrying in 1.60s
+2026-06-14 01:29:58,821 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/272/les+bergeries/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:29:58,822 - INFO - Retrying in 2.13s
+2026-06-14 01:30:01,890 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/272/les+bergeries/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:01,891 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/272/les+bergeries/A+R
+2026-06-14 01:30:03,022 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:03,023 - INFO - Retrying in 1.10s
+2026-06-14 01:30:05,005 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:05,005 - INFO - Retrying in 2.81s
+2026-06-14 01:30:08,704 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:08,705 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/272
+2026-06-14 01:30:09,721 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/275/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:09,722 - INFO - Retrying in 1.57s
+2026-06-14 01:30:12,177 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/275/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:12,178 - INFO - Retrying in 2.99s
+2026-06-14 01:30:16,329 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/275/la+defense/A+R: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:16,331 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/schedules/buses/275/la+defense/A+R
+2026-06-14 01:30:17,193 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:17,194 - INFO - Retrying in 1.07s
+2026-06-14 01:30:19,402 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:19,402 - INFO - Retrying in 2.87s
+2026-06-14 01:30:23,613 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:23,613 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/traffic/buses/275
+2026-06-14 01:30:30,018 - INFO - GET https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/json?point=48.8917,2.2385&unit=KMPH&openLr=false&key=HqfYzA2MsXY66FWxaAGpLkAKHtoIA0AO - Status: 200
+2026-06-14 01:30:30,226 - INFO - GET https://api.tomtom.com/traffic/services/5/incidentDetails?bbox=2.22,48.88,2.25,48.9&fields={incidents{type,geometry{type,coordinates},properties{iconCategory,magnitudeOfDelay,events{description,code},startTime,endTime,from,to,length,delay,roadNumbers,timeValidity}}&language=fr-FR&timeValidityFilter=present&key=HqfYzA2MsXY66FWxaAGpLkAKHtoIA0AO - Status: 400
+2026-06-14 01:30:30,226 - ERROR - Client error 400 for https://api.tomtom.com/traffic/services/5/incidentDetails?bbox=2.22,48.88,2.25,48.9&fields={incidents{type,geometry{type,coordinates},properties{iconCategory,magnitudeOfDelay,events{description,code},startTime,endTime,from,to,length,delay,roadNumbers,timeValidity}}&language=fr-FR&timeValidityFilter=present&key=HqfYzA2MsXY66FWxaAGpLkAKHtoIA0AO
+2026-06-14 01:30:30,556 - INFO - GET https://www.sytadin.fr/gp/sytadin/data_traffic.jsp.data/traffic.jsp - Status: 404
+2026-06-14 01:30:30,558 - ERROR - Resource not found (404) for https://www.sytadin.fr/gp/sytadin/data_traffic.jsp.data/traffic.jsp
+2026-06-14 01:30:31,784 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:31,784 - INFO - Retrying in 1.99s
+2026-06-14 01:30:34,763 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:34,763 - INFO - Retrying in 2.66s
+2026-06-14 01:30:38,319 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/E: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:38,320 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/E
+2026-06-14 01:30:39,376 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:39,377 - INFO - Retrying in 1.88s
+2026-06-14 01:30:42,162 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:42,165 - INFO - Retrying in 2.94s
+2026-06-14 01:30:46,133 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/transilien/L: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:46,134 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/transilien/L
+2026-06-14 01:30:47,054 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:47,054 - INFO - Retrying in 1.91s
+2026-06-14 01:30:49,955 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:49,957 - INFO - Retrying in 2.02s
+2026-06-14 01:30:52,888 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/73: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:52,888 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/73
+2026-06-14 01:30:53,755 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:30:53,755 - INFO - Retrying in 1.81s
+2026-06-14 01:30:56,453 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:30:56,454 - INFO - Retrying in 2.36s
+2026-06-14 01:30:59,953 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/144: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:30:59,956 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/144
+2026-06-14 01:31:00,874 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:00,875 - INFO - Retrying in 1.31s
+2026-06-14 01:31:03,200 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:03,200 - INFO - Retrying in 2.44s
+2026-06-14 01:31:06,557 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/158: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:06,560 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/158
+2026-06-14 01:31:07,450 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:07,450 - INFO - Retrying in 1.37s
+2026-06-14 01:31:09,722 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:09,724 - INFO - Retrying in 2.19s
+2026-06-14 01:31:12,788 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/163: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:12,790 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/163
+2026-06-14 01:31:13,778 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:13,782 - INFO - Retrying in 1.45s
+2026-06-14 01:31:16,243 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:16,245 - INFO - Retrying in 2.62s
+2026-06-14 01:31:19,744 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/174: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:19,745 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/174
+2026-06-14 01:31:20,614 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:20,614 - INFO - Retrying in 1.52s
+2026-06-14 01:31:23,300 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:23,301 - INFO - Retrying in 2.63s
+2026-06-14 01:31:26,825 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/178: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:26,827 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/178
+2026-06-14 01:31:27,908 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:27,922 - INFO - Retrying in 1.19s
+2026-06-14 01:31:29,985 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:29,985 - INFO - Retrying in 2.81s
+2026-06-14 01:31:33,722 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/258: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:33,723 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/258
+2026-06-14 01:31:34,744 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:34,744 - INFO - Retrying in 1.83s
+2026-06-14 01:31:37,537 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:37,538 - INFO - Retrying in 2.10s
+2026-06-14 01:31:41,117 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/262: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:41,118 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/262
+2026-06-14 01:31:42,040 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:42,040 - INFO - Retrying in 1.64s
+2026-06-14 01:31:44,803 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:44,804 - INFO - Retrying in 2.50s
+2026-06-14 01:31:48,207 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/272: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:48,207 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/272
+2026-06-14 01:31:49,090 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:49,090 - INFO - Retrying in 1.95s
+2026-06-14 01:31:51,935 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:51,935 - INFO - Retrying in 2.58s
+2026-06-14 01:31:55,558 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/275: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:31:55,558 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/buses/275
+2026-06-14 01:31:56,433 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/metros/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:31:56,434 - INFO - Retrying in 1.90s
+2026-06-14 01:31:59,244 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/metros/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:31:59,244 - INFO - Retrying in 2.07s
+2026-06-14 01:32:02,203 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/metros/1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:32:02,204 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/metros/1
+2026-06-14 01:32:03,237 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 1/3
+2026-06-14 01:32:03,237 - INFO - Retrying in 1.38s
+2026-06-14 01:32:05,662 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 2/3
+2026-06-14 01:32:05,662 - INFO - Retrying in 2.04s
+2026-06-14 01:32:08,565 - WARNING - Request error for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/A: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) - Attempt 3/3
+2026-06-14 01:32:08,566 - ERROR - All 3 attempts failed for https://api-ratp.pierre-grimaud.fr/v4/stations/rers/A
+2026-06-14 01:32:08,962 - INFO - GET https://data.ratp.fr/api/records/1.0/search/ - Status: 404
+2026-06-14 01:32:08,962 - ERROR - Resource not found (404) for https://data.ratp.fr/api/records/1.0/search/
+2026-06-14 01:32:09,180 - INFO - GET https://data.ratp.fr/api/records/1.0/search/ - Status: 404
+2026-06-14 01:32:09,180 - ERROR - Resource not found (404) for https://data.ratp.fr/api/records/1.0/search/

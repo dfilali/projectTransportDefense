@@ -1,0 +1,61 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# =====================
+# IDE (PyCharm / VSCode)
+# =====================
+.idea/
+.vscode/
+*.iml
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Data / local files
+# =====================
+data/
+data_lake/
+*.csv
+*.parquet
+*.json
+
+# =====================
+# Logs
+# =====================
+logs/
+*.log
+
+# =====================
+# Environment variables
+# =====================
+.env
+
+# =====================
+# Docker
+# =====================
+docker-compose.override.yml
+
+# =====================
+# Streamlit
+# =====================
+.streamlit/
+
+# =====================
+# MinIO / Data Lake
+# =====================
+minio_data/
