@@ -2,18 +2,19 @@
 # Python
 # =====================
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-*.pyc
 
-# Virtual env
+# =====================
+# Virtual environments
+# =====================
 venv/
 env/
 .venv/
 
 # =====================
-# IDE (PyCharm / VSCode)
+# IDE
 # =====================
 .idea/
 .vscode/
@@ -26,24 +27,16 @@ env/
 Thumbs.db
 
 # =====================
-# Data / local files
-# =====================
-data/
-data_lake/
-*.csv
-*.parquet
-*.json
-
-# =====================
 # Logs
 # =====================
 logs/
 *.log
 
 # =====================
-# Environment variables
+# Environment variables (CRITICAL)
 # =====================
 .env
+.env.*
 
 # =====================
 # Docker
@@ -56,6 +49,26 @@ docker-compose.override.yml
 .streamlit/
 
 # =====================
-# MinIO / Data Lake
+# Data (ONLY LARGE / RAW DATA)
+# =====================
+data/raw/
+data_lake/
+*.parquet
+
+# ⚠️ IMPORTANT: keep small sample CSVs if needed for demo
+# *.csv (DO NOT uncomment globally unless necessary)
+
+# =====================
+# ML artifacts
+# =====================
+*.pkl
+*.h5
+*.pt
+*.joblib
+models/
+
+# =====================
+# Big data / cloud
 # =====================
 minio_data/
+spark-warehouse/
